@@ -33,7 +33,7 @@ const Banner = () => {
             <div className="relative">
               <div className="bg-blue-100 w-64 h-64 md:w-80 md:h-80 rounded-full absolute -z-10 top-4 left-4"></div>
               <img
-                src="https://images.unsplash.com/photo-1581595219315-a187dd40c322?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80"
+                src="./images/banner-home.webp"
                 alt="DNA Testing Illustration"
                 className="w-64 h-64 md:w-80 md:h-80 object-cover rounded-lg shadow-xl relative"
               />

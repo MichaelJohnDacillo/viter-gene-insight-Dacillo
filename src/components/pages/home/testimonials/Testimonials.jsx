@@ -20,7 +20,7 @@ const Testimonials = () => {
           <div className="grid md:grid-cols-3 gap-8">
             {/* Testimonial 1 */}
             <TestimonialCards
-            image={"https://randomuser.me/api/portraits/women/44.jpg"}
+            image={"./images/testimonials-1.webp"}
             alt={"Sarah J."}
             name={"Sarah J."}
             star1={BsStarFill}
@@ -33,7 +33,7 @@ const Testimonials = () => {
 
             {/* Testimonial 2 */}
             <TestimonialCards
-            image={"https://randomuser.me/api/portraits/men/32.jpg"}
+            image={"./images/testimonials-2.webp"}
             alt={"Michael T."}
             name={"Michael T."}
             star1={BsStarFill}
@@ -45,7 +45,7 @@ const Testimonials = () => {
 
             {/* Testimonial 3 */}
             <TestimonialCards
-            image={"https://randomuser.me/api/portraits/women/68.jpg"}
+            image={"./images/testimonials-3.webp"}
             alt={"Emma K."}
             name={"Emma K."}
             star1={BsStarFill}

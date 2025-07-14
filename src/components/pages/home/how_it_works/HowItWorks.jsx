@@ -47,7 +47,7 @@ const HowItWorks = () => {
           <div className="bg-white p-8 rounded-xl shadow-sm max-w-4xl mx-auto">
             <div className="flex flex-col md:flex-row items-center">
               <img
-                src="https://images.unsplash.com/photo-1579684385127-1ef15d508118?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80"
+                src="./images/process.webp"
                 alt="DNA Test Kit"
                 className="w-full md:w-1/2 h-auto mb-6 md:mb-0 md:mr-8 rounded-lg"
               />
